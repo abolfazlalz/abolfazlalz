@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Abl-Logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1025 1025" style="enable-background:new 0 0 1025 1025;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.99;fill:url(#Line_1_);}
+	.st1{fill:url(#L-Line_1_);stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.st2{fill:url(#L-Bottom_1_);stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.st3{fill:url(#B-Line_1_);stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.st4{fill:url(#B-Bottom_1_);stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.st5{fill:url(#B-Top_1_);stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.st6{fill:url(#A-Line_1_);stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.st7{fill:url(#A-Ellipse_1_);stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+</style>
+<radialGradient id="Line_1_" cx="504" cy="503.7453" r="309.6813" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#161616"/>
+	<stop  offset="0.4862" style="stop-color:#0E0E0E"/>
+	<stop  offset="1" style="stop-color:#000000"/>
+</radialGradient>
+<path id="Line" class="st0" d="M931.48,575.6H76.52c-2.51,0-4.54-2.03-4.54-4.54V436.43c0-2.51,2.03-4.54,4.54-4.54h854.96
+	c2.51,0,4.54,2.03,4.54,4.54v134.62C936.02,573.56,933.99,575.6,931.48,575.6z"/>
+<g id="L">
+	<linearGradient id="L-Line_1_" gradientUnits="userSpaceOnUse" x1="631.5848" y1="502.9949" x2="716.5848" y2="502.9949">
+		<stop  offset="0" style="stop-color:#BE1E2D"/>
+		<stop  offset="1" style="stop-color:#ED1C24"/>
+	</linearGradient>
+	<path id="L-Line" class="st1" d="M716.52,645.49h-80.38c-2.52,0-4.56-2.04-4.56-4.56V365.05c0-2.52,2.04-4.56,4.56-4.56h75.89
+		c2.52,0,4.56,2.04,4.56,4.56v280.38C716.58,645.47,716.56,645.49,716.52,645.49z"/>
+	<linearGradient id="L-Bottom_1_" gradientUnits="userSpaceOnUse" x1="718.8936" y1="609.4949" x2="863.8936" y2="609.4949">
+		<stop  offset="0" style="stop-color:#BE1E2D"/>
+		<stop  offset="1" style="stop-color:#ED1C24"/>
+	</linearGradient>
+	<path id="L-Bottom" class="st2" d="M791.47,645.49h-72.57c0-39.5,32.76-72,72.57-72c38.2,0,69.91,29.93,72.42,67.25
+		c0.17,2.57-1.86,4.75-4.46,4.75H791.47z"/>
+</g>
+<g id="B">
+	<linearGradient id="B-Line_1_" gradientUnits="userSpaceOnUse" x1="431.5671" y1="502.9949" x2="516.5671" y2="502.9949">
+		<stop  offset="0" style="stop-color:#BE1E2D"/>
+		<stop  offset="0.0531" style="stop-color:#C31E2C"/>
+		<stop  offset="0.3569" style="stop-color:#D71D28"/>
+		<stop  offset="0.669" style="stop-color:#E61D25"/>
+		<stop  offset="1" style="stop-color:#ED1C24"/>
+	</linearGradient>
+	<path id="B-Line" class="st3" d="M512.13,645.49h-76.12c-2.45,0-4.44-1.99-4.44-4.44V364.94c0-2.45,1.99-4.44,4.44-4.44h76.12
+		c2.45,0,4.44,1.99,4.44,4.44v276.12C516.57,643.51,514.58,645.49,512.13,645.49z"/>
+	<linearGradient id="B-Bottom_1_" gradientUnits="userSpaceOnUse" x1="528.9212" y1="569.5419" x2="603.9212" y2="569.5419">
+		<stop  offset="0" style="stop-color:#BE1E2D"/>
+		<stop  offset="0.0531" style="stop-color:#C31E2C"/>
+		<stop  offset="0.3569" style="stop-color:#D71D28"/>
+		<stop  offset="0.669" style="stop-color:#E61D25"/>
+		<stop  offset="1" style="stop-color:#ED1C24"/>
+	</linearGradient>
+	<path id="B-Bottom" class="st4" d="M528.92,569.54v-70.36c0-2.61,2.22-4.65,4.82-4.48c38.93,2.52,70.18,35.32,70.18,74.84
+		c0,39.52-31.24,72.32-70.18,74.84c-2.6,0.17-4.82-1.87-4.82-4.48V569.54z"/>
+	<linearGradient id="B-Top_1_" gradientUnits="userSpaceOnUse" x1="528.9212" y1="420.4949" x2="588.9212" y2="420.4949">
+		<stop  offset="0" style="stop-color:#BE1E2D"/>
+		<stop  offset="0.0531" style="stop-color:#C31E2C"/>
+		<stop  offset="0.3569" style="stop-color:#D71D28"/>
+		<stop  offset="0.669" style="stop-color:#E61D25"/>
+		<stop  offset="1" style="stop-color:#ED1C24"/>
+	</linearGradient>
+	<path id="B-Top" class="st5" d="M528.92,420.49v-55.41c0-2.58,2.21-4.6,4.78-4.4c30.72,2.47,55.22,28.5,55.22,59.81
+		s-24.5,57.34-55.22,59.81c-2.57,0.21-4.78-1.82-4.78-4.4V420.49z"/>
+</g>
+<g id="A">
+	<linearGradient id="A-Line_1_" gradientUnits="userSpaceOnUse" x1="215.8667" y1="502.8979" x2="405.8667" y2="502.8979">
+		<stop  offset="0" style="stop-color:#BE1E2D"/>
+		<stop  offset="1" style="stop-color:#ED1C24"/>
+	</linearGradient>
+	<path id="A-Line" class="st6" d="M289.35,506.61c14.61,28.82,19.42,54.39,21.7,66.72c4.93,26.61,5.03,49.79,3.78,67.39
+		c-0.18,2.46,1.9,4.55,4.54,4.56l81.94,0.08c2.53,0,4.59-1.92,4.56-4.29c-0.6-52-12.03-103.4-33.68-151.33
+		c-21.65-47.93-53.08-91.43-92.52-128.07c-1.79-1.66-4.7-1.62-6.46,0.07l-56.05,53.96c-1.87,1.8-1.69,4.7,0.4,6.27
+		C238.33,437.68,268.26,465.01,289.35,506.61z"/>
+	<linearGradient id="A-Ellipse_1_" gradientUnits="userSpaceOnUse" x1="144.3461" y1="575.546" x2="284.3461" y2="575.546">
+		<stop  offset="0" style="stop-color:#BE1E2D"/>
+		<stop  offset="1" style="stop-color:#ED1C24"/>
+	</linearGradient>
+	<circle id="A-Ellipse" class="st7" cx="214.35" cy="575.55" r="70"/>
+</g>
+</svg>
