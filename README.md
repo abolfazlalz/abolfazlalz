@@ -1,20 +1,51 @@
-<img src="https://github.com/abolfazlalz/abolfazlalz/blob/main/abl-logo.png" width="200"/>
+```c++
+#ifndef ABL_H
+#define ABL_H
 
-### Dorod !! \<In persian it's mean Hi\>
-  Im Abolfazl, a __FullStack developer__.
-  
-  #### Follow our team in [`Techano - Developers`](https://github.com/techano-developers)
-<!--
-**abolfazlalz/abolfazlalz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+/**
+Getting to know 
 
-Here are some ideas to get you started:
+                 *****            *******  ****      *******                    
+               *********          *******  *****     *******                    
+                **********        *******  *****     *******                    
+                   ********       *******  ***       *******                    
+                    ********      *******            *******                    
+          ********    *******     *******  *****     *******                    
+        ************  ********    *******  ******    *******                    
+       *************   ********   *******  ******    *******     ****           
+        ***********    ********   *******  ******    *******  **********        
+           ******      ********   *******  ***       ******* ************      
+**/
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# **Hello**
+
+#### Follow our team in [`Techano`](https://github.com/techanodev)
+
+Just a full stack, system manager and everything else related to the computer !
+
+I love working with **Linux** systems and programming while listening to music and sometimes I write Linux scripts **just for fun!**
+
+### Do you know my daily routine?
+
+Sys admin with ...
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+Backend with ...
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+Frontend with ...
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+
+```
+#endif
+```
